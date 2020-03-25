@@ -1,0 +1,10 @@
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.csprojAssemblyReference.cache
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.Form1.resources
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.Properties.Resources.resources
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.csproj.GenerateResource.cache
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.csproj.CoreCompileInputs.cache
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\bin\Debug\ComtrolHttpTest.exe.config
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\bin\Debug\ComtrolHttpTest.exe
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\bin\Debug\ComtrolHttpTest.pdb
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.exe
+C:\Users\TaZhang\source\repos\ComtrolHttpTest\ComtrolHttpTest\obj\Debug\ComtrolHttpTest.pdb
